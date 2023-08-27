@@ -1,4 +1,4 @@
-# QR_Code_Generator
+# QR_Code_Generator 🙂
 my simple QR Code Generator make by python 
 
 ## Installation 📩
