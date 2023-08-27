@@ -1,7 +1,7 @@
 # QR_Code_Generator
 my simple QR Code Generator make by python 
 
-### Installation
+## Installation 📩
 install PIL
 ```bash
 pip install pillow
