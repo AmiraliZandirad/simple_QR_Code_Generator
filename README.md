@@ -2,15 +2,15 @@
 my simple QR Code Generator make by python 
 
 ## Installation 📩
-install PIL
+install PIL⭐
 ```bash
 pip install pillow
 ```
-install qrcode
+install qrcode⭐
 ```bash
 pip install qrcode
 ```
-install tkinter
+install tkinter⭐
 ```bash
 pip install tk
 ```
