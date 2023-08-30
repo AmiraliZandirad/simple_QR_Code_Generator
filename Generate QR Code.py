@@ -1,5 +1,4 @@
 #Amirali Zandi rad 
-
 import  qrcode
 import tkinter as tk
 from PIL import ImageTk, Image
@@ -23,7 +22,6 @@ def generate_qr():
     panel.image = img
     messagebox.showinfo("QR Code Generated", "QR Code saved as 'qrcode.png'")
 
-
 root = tk.Tk()
 root.title("QR Code Generator")
 root.configure(background="black")
@@ -39,12 +37,10 @@ qr_text = tk.Entry(root, width=35, font=("Arial", 15))
 qr_text.configure(bg="gray", fg="white")
 qr_text.pack(pady=40)
 
-
 generate_btn = tk.Button(root, text="Generate QR Code", command=generate_qr)
 generate_btn.configure(bg="darkred", fg="white")
 generate_btn.pack(pady=50)
 generate_btn.configure(width=15, height=2)
-
 
 panel = tk.Label(root)
 panel.pack(pady=10)
