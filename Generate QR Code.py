@@ -1,4 +1,4 @@
-#Make by Amirali
+#Make by Amirali Zandi
 import  qrcode
 import tkinter as tk
 from PIL import ImageTk, Image
