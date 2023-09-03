@@ -22,7 +22,7 @@ def generate_qr():
     panel.config(image=img)
     panel.image = img
     messagebox.showinfo("QR Code Generated", "QR Code saved as 'qrcode.png'")
-
+# 
 root = tk.Tk()
 root.title("QR Code Generator")
 root.configure(background="black")
