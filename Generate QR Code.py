@@ -10,6 +10,7 @@ def generate_qr():
         box_size=10,
         border=5
     )
+    
     data = qr_text.get()
     qr.add_data(data)
     qr.make(fit=True)
@@ -44,5 +45,5 @@ generate_btn.configure(width=15, height=2)
 
 panel = tk.Label(root)
 panel.pack(pady=10)
-
+#
 root.mainloop()
