@@ -4,6 +4,7 @@ import tkinter as tk
 from PIL import ImageTk, Image
 from tkinter import messagebox
 
+#start app 
 def generate_qr():
     qr = qrcode.QRCode(
         version=1,
