@@ -1,4 +1,5 @@
-#Make by Amirali Zandi
+#Ā̷̪̩̦͇̌̌͆̍͛̐̕ͅͅm̸̢̞͎͔̭̜͓͇̼͋́̅̌͐́į̸͍̯̜̣̈́͝r̴͇̘̩̯̯̔̿͂̈́͆͘a̵̝̟̮̬̒͋͗́̏͗l̸̘͇͎͖̈́͑́̽̑̈́͐̂̀̚į̵̲͔̱̝̙̞̥͊̊͂̈͐̕̚͠ ̸̧̧͕͈̫̖̫͆̃̋͒̒̇̿̌̉̕ͅŹ̶͇͑̄̆̈́͜ą̵̟̻͉̼̬̮̮͗̈́́̌͠ņ̷̡̹̦̖̜͕̙͌̈̋̄̍͂̕d̵̛͍́̇̐̿̂̾̔̇ȉ̷̖͚͛̿̅̐͋̊
+
 import  qrcode
 import tkinter as tk
 from PIL import ImageTk, Image
